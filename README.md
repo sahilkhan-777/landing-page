@@ -17,3 +17,7 @@ Designed with a modern layout featuring a header, hero section, info cards, test
 
 - `index.html` — Main HTML markup of the landing page
 - `style.css` — CSS styles implementing the layout and design
+
+### Image Credits
+
+Hero image by [Sorb](https://unsplash.com/@sorb1011) on [Unsplash](https://unsplash.com).
